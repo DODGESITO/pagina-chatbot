@@ -36,7 +36,7 @@ export default function HomePage() {
                   e.preventDefault()
                   const whatsappUrl = prompt("Ingresa el enlace de tu agente de WhatsApp:")
                   if (whatsappUrl) {
-                    window.open(whatsappUrl, "_blank")
+                    window.open(whatsappUrl, "https://wa.me/573222020082")
                   }
                 }}
               >
@@ -68,7 +68,7 @@ export default function HomePage() {
                   e.preventDefault()
                   const whatsappUrl = prompt("Ingresa el enlace de tu agente de WhatsApp:")
                   if (whatsappUrl) {
-                    window.open(whatsappUrl, "_blank")
+                    window.open(whatsappUrl, "https://wa.me/573222020082")
                   }
                 }}
               >
@@ -326,7 +326,7 @@ export default function HomePage() {
                 e.preventDefault()
                 const whatsappUrl = prompt("Ingresa el enlace de tu agente de WhatsApp:")
                 if (whatsappUrl) {
-                  window.open(whatsappUrl, "_blank")
+                  window.open(whatsappUrl, "https://wa.me/573222020082")
                 }
               }}
             >
